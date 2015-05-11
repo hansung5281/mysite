@@ -3,4 +3,5 @@
 	<li class="selected">안대혁</li>
 	<li><a href="/mysite/views/guestbook/list.jsp">방명록</a></li>
 	<li><a href="">게시판</a></li>
+
 </ul>
